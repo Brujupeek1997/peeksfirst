@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Signika Negative', sans-serif;
+}
+
+h1 {
+  color: #603601;
+  margin-top: 0;
+  font-family: 'Pacifico', cursive;
+  font-size: 4.7rem;
+}
+
+.job {
+  font-size: 3.0rem;
+  color: #603601;
+  font-weight: normal;
+}
+
+h3 {
+  color: #603601;
+}
+
+body {
+  margin: 0;
+}
+
+.TopD {
+  background-color: #B1D7B4;
+}
+
+.TopG {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.MidD {}
+
+.DownD {}
+
+.nor1 {
+  height: 200px;
+  width: 250px;
+  position: relative;
+  left: 400px;
+}
+
+.nor2 {
+  height: 200px;
+  width: 250px;
+  position: absolute;
+}
+
+.munte {
+  height: 600px;
+  width: 1000px;
+}
